@@ -2,8 +2,9 @@
 
 ### Day 0: September 13, 2018
 
-**Today's Progress**:
-**Thoughts:**
+**Today's Progress**: Solved 4 problems on Hackerrank. 3 from the Algorithms section (Plus Minus, Staircase, Mini-Max-Sum) and one from the 30 days of Code section (No.19 - Interfaces). 
+
+**Thoughts:** Might be a slow start compared to what level I want to be at? But a good start. Should work on punctuality.
 
 <!---
 ### Day 0: February 30, 2016 (Example 1)
