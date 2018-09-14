@@ -2,9 +2,15 @@
 
 ### Day 0: September 13, 2018
 
-**Today's Progress**: Solved 4 problems on Hackerrank. 3 from the Algorithms section (Plus Minus, Staircase, Mini-Max-Sum) and one from the 30 days of Code section (No.19 - Interfaces). 
+**Today's Progress**: Solved 4 problems on Hackerrank. 3 from the Algorithms section (Plus Minus, Staircase, Mini-Max-Sum) and one from the 30 days of Code section (30DOC) (No.19 - Interfaces). 
 
 **Thoughts:** Might be a slow start compared to what level I want to be at? But a good start. Should work on punctuality.
+
+### Day 1: September 14, 2018
+
+**Today's Progress**: Solved 3 problems on Hackerrank. 2 from the 30DOC section (Nos.20 and 21) and one from Problem Solving (Birthday Cake Candles)
+
+**Thoughts:** Couldn't think clearly (tired). But getting more comfortable with Python. Should be able to code fluently soon.
 
 <!---
 ### Day 0: February 30, 2016 (Example 1)
