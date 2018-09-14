@@ -8,7 +8,7 @@
 
 ### Day 1: September 14, 2018
 
-**Today's Progress**: Solved 3 problems on Hackerrank. 2 from the 30DOC section (Nos.20 and 21) and one from Problem Solving (Birthday Cake Candles)
+**Today's Progress**: Solved 3 problems on Hackerrank. 2 from the 30DOC section (Nos.20 and 21) and one from Problem Solving (Birthday Cake Candles). Stuck on 'Time Conversion' problem.
 
 **Thoughts:** Couldn't think clearly (tired). But getting more comfortable with Python. Should be able to code fluently soon.
 
