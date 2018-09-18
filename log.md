@@ -12,6 +12,28 @@
 
 **Thoughts:** Couldn't think clearly (tired). But getting more comfortable with Python. Should be able to code fluently soon.
 
+### Day 2: September 15, 2018
+
+**Today's Progress**: Finished the 'Time Conversion' problem. No. 22 and 23 on 30DOC were based on binary trees, so started learning about them. (MITOCW Intro to Algorithms Lecture 5)
+
+**Thoughts:** Didn't make much progress today on problem solving, but did some learning.
+
+### Day 3: September 16, 2018
+
+**Today's Progress**: Continued the lecture on Binary Trees. Didn't get any coding done today.
+
+### Day 4: September 17, 2018
+
+**Today's Progress**: Compensated for not coding on the previous day. Solved 5 problems in 30DOC (22,23,24,25,26) and problem 1 on ProjectEuler+. Finished the lecture on Binary Trees too.
+
+**Thoughts:** Felt good after coding a lot today. ProjectEuler+ seems like it could be great practice. Need to solve more problems to improve algorithmic thinking as I had to go through the discussions to learn the approach for a few of the problems.
+
+### Day 5: September 18, 2018
+
+**Today's Progress**: Solved problem 2 in ProjectEuler+. Stuck in problem 3. Will get back to it later today.
+
+**Thoughts:** 
+
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
