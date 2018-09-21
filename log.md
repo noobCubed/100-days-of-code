@@ -32,6 +32,16 @@
 
 **Today's Progress**: Solved problem 2 in ProjectEuler+. Stuck in problem 3. Will get back to it later today.
 
+**Thoughts:** Should reduce solving problems and start working on real projects
+
+### Day 6: September 19, 2018
+
+**Today's Progress**: Worked on learning EDA a little. Also some research for Health Monitoring Unit.
+
+### Day 7: September 21, 2018
+
+**Today's Progress**: Solved remaining 3 problems in 30DOC (27,28,29). Re-attempting Project Euler problem 3
+
 **Thoughts:** 
 
 <!---
