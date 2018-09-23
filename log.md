@@ -44,7 +44,11 @@
 
 **Thoughts:** First achievement today. Finished 30DOC (finally :P).
 
-### Day 8: September 23, 2018
+### Day 8: September 22, 2018
+
+**Today's Progress**: Still stuck on problem 3. Couldn't wrap my head around the problem.
+
+### Day 9: September 23, 2018
 
 **Today's Progress**: Installed and fiddled around with tensorflow-gpu.
 
