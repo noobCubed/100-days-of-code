@@ -42,8 +42,13 @@
 
 **Today's Progress**: Solved remaining 3 problems in 30DOC (27,28,29). Re-attempting Project Euler problem 3
 
-**Thoughts:** 
+**Thoughts:** First achievement today. Finished 30DOC (finally :P).
 
+### Day 8: September 23, 2018
+
+**Today's Progress**: Installed and fiddled around with tensorflow-gpu.
+
+**Thoughts:** This should be the base for future projects.
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
