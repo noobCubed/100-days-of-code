@@ -53,6 +53,12 @@
 **Today's Progress**: Installed and fiddled around with tensorflow-gpu.
 
 **Thoughts:** This should be the base for future projects.
+
+### Day 10: October 29, 2018
+
+**Today's Progress**: Gave basic functionality to the Health Monitor GUI. (Use of buttons to switch between pages)
+
+**Thoughts:** Restarting 100DOC. 
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
