@@ -54,6 +54,12 @@
 
 **Thoughts:** This should be the base for future projects.
 
+### Few days in October
+
+**Progress**: Started and finished most of the Health Monitor GUI using **Kivy** for Python. Learnt from the book **Creating Apps in Kivy** by Dusty Philips. Free trial on the O'Reilly website.
+
+**Thoughts:** Haven't included these days in the day count as I don't exactly know when or how many days I worked on it.
+
 ### Day 10: October 29, 2018
 
 **Today's Progress**: Gave basic functionality to the Health Monitor GUI. (Use of buttons to switch between pages)
