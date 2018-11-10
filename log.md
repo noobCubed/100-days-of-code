@@ -59,6 +59,52 @@
 **Today's Progress**: Gave basic functionality to the Health Monitor GUI. (Use of buttons to switch between pages)
 
 **Thoughts:** Restarting 100DOC. 
+
+### Day 11: November 4, 2018
+
+**Today's Progress**: Finished Upper Confidence Bound algorithm intuition (ML A-Z Course)
+
+**Thoughts:** Should do more in a day if possible
+
+### Day 12: November 5, 2018
+
+**Today's Progress**: Finished coding part of Upper Confidence Bound algorithm (ML A-Z Course)
+
+**Thoughts:** Should do more in a day if possible 
+
+### Day 13: November 6, 2018
+
+**Today's Progress**: Finished Thompson Sampling intuition (ML A-Z Course)
+
+**Thoughts:** Should do more in a day if possible 
+
+### Day 14: November 7, 2018
+
+**Today's Progress**: Finished coding part of Thompson Sampling algorithm (ML A-Z Course)
+
+**Thoughts:** Should do more in a day if possible 
+
+### Day 15: November 8, 2018
+
+**Today's Progress**: Finished Recurrent Neural Networks intuition (ML A-Z Course)
+
+**Thoughts:** Should do more in a day if possible 
+
+### Day 16: November 9, 2018
+
+**Today's Progress**: Started with the code for the task scheduling algorithm using rate monotonic criterion. Finished till testing the criterion and setting the priorities.
+
+**Thoughts:** Had fun as the algorithm is very interesting. 
+
+**Link to work:** https://github.com/noobCubed/Hobbyist-Python-Scripts
+
+### Day 17: November 10, 2018
+
+**Today's Progress**: Finished the task scheduling algorithm using the rate monotonic criterion. Implemented the scheduling part of the algorithm.
+
+**Thoughts:** Found it tough to implement the scheduling part as it involves a lot of logic. Figured it out though. Felt great :D
+
+**Link to work:** https://github.com/noobCubed/Hobbyist-Python-Scripts
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
