@@ -111,6 +111,14 @@
 **Thoughts:** Found it tough to implement the scheduling part as it involves a lot of logic. Figured it out though. Felt great :D
 
 **Link to work:** https://github.com/noobCubed/Hobbyist-Python-Scripts
+
+### Day 18: November 11, 2018
+
+**Today's Progress**: Made the execution trace (bar plot using matplotlib) for the task scheduling algorithm. Turned out well.
+
+**Thoughts:** Had fun going through the matplotlib documentation to find suitable functions and arguments to tailor make the plot.
+
+**Link to work:** https://github.com/noobCubed/Hobbyist-Python-Scripts
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
