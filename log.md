@@ -119,6 +119,24 @@
 **Thoughts:** Had fun going through the matplotlib documentation to find suitable functions and arguments to tailor make the plot.
 
 **Link to work:** https://github.com/noobCubed/Hobbyist-Python-Scripts
+
+### Day 19: November 18, 2018
+
+**Today's Progress**: Started building the housing for the Raspberry Pi touch screen (banggood.in).
+
+**Thoughts:** I know it's not actually coding, but I'm just including it because I think it counts as progress.
+
+### Day 20: November 19, 2018
+
+**Today's Progress**: Finished building the housing. Also, made all the required connections and tested the display. Display and touch work fine with the Raspberry Pi. Touch axes are inverted.
+
+**Thoughts:** Same as day 19, but this counts as progress as both are needed for me to start coding on the Raspberry Pi (GUI and any future projects).
+
+### Day 21: November 22, 2018
+
+**Today's Progress**: Fixed the inverted axes issue by reversing the wires from the touch module PCB. Calibrated the screen for better touch accuracy by following the calibration guide (xinput-calibrator library). Installed the Kivy library.
+
+**Thoughts:** Got some basic setup done today for future work on the Raspberry Pi-TouchScreen build. Need to calibrate the screen again as I don't feel it's very accurate right now too.
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
