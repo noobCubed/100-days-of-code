@@ -137,6 +137,12 @@
 **Today's Progress**: Fixed the inverted axes issue by reversing the wires from the touch module PCB. Calibrated the screen for better touch accuracy by following the calibration guide (xinput-calibrator library). Installed the Kivy library.
 
 **Thoughts:** Got some basic setup done today for future work on the Raspberry Pi-TouchScreen build. Need to calibrate the screen again as I don't feel it's very accurate right now too.
+
+### Day 22: November 23, 2018
+
+**Today's Progress**: Fixed the issue of having installed the development version Kivy library to a pip installed stable version. Enabled touch for Kivy GUI and ran Kivy GUI examples. 
+
+**Thoughts:** Took a long time to fix the library installation. Kivy library is installed to work for Python2.7. Have to change it to work for Python 3. Also, have to enable mouse cursor and keyboard for use in the GUI.
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
